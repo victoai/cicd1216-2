@@ -14,6 +14,6 @@ public class HelloController {
 
     @GetMapping("/hi2")
     public String hi2(){
-        return "  1216  cicd  2  ";
+        return "  1216  cicd  2  n^^^^ ";
     }
 }
